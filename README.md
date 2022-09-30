@@ -1,0 +1,2 @@
+# ScreenWatcher
+ FFXIV Login Script
